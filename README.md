@@ -1,1 +1,1 @@
-# kx-means
+# $k^*$-means
