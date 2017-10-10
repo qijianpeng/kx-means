@@ -8,6 +8,8 @@ TBD.
 
 ## Citing
 If you find _k_*-means useful in your research, we ask that you cite the following paper:
+
+- Journal Version:
 ```
 @article{kxmeansJournal,
   author    = {Jianpeng Qi and
@@ -17,7 +19,7 @@ If you find _k_*-means useful in your research, we ask that you cite the followi
                Yingjie Wang},
   title     = {An effective and efficient hierarchical \emph{K}-means clustering
                algorithm},
-  journal   = {{IJDSN}},
+  journal   = {International Journal of Distributed Sensor Networks},
   volume    = {13},
   number    = {8},
   year      = {2017},
@@ -26,6 +28,7 @@ If you find _k_*-means useful in your research, we ask that you cite the followi
 }
 ```
 
+- Conference version:
 ```
 @inproceedings{kxmeansConference,
   title={K*-Means: An Effective and Efficient K-Means Clustering Algorithm},
