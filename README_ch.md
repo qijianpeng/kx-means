@@ -1,18 +1,16 @@
 # k*-means
-[中文版](./README_ch.md)
+一种类似于层次聚类的高效k-means算法. [[下载 pdf]](https://doi.org/10.1177/1550147717728627)
 
-An effective and efficient hierarchical K-means clustering algorithm. [[Download pdf]](https://doi.org/10.1177/1550147717728627)
-
-## Usage
+## 用法
 TBD.
 
-## Requirements
+## 配置
 - jdk 7+
 
-## Citing
-If you find _k_*-means useful in your research, we ask that you cite the following paper:
+## 引用
+如果您觉得 _k_*-means 对您的研究有所帮助, 请引用我们的论文:
 
-- Journal Version:
+- 期刊:
 ```
 @article{kxmeansJournal,
   author    = {Jianpeng Qi and
@@ -31,7 +29,7 @@ If you find _k_*-means useful in your research, we ask that you cite the followi
 }
 ```
 
-- Conference version:
+- 会议:
 ```
 @inproceedings{kxmeansConference,
   title={K*-Means: An Effective and Efficient K-Means Clustering Algorithm},
@@ -41,6 +39,6 @@ If you find _k_*-means useful in your research, we ask that you cite the followi
   year={2016},
 }
 ```
-## Misc
+## 其它
 - Free software: GPLv3 license
-- Contact: yuyanwei@ytu.edu.cn
+- 通讯: yuyanwei@ytu.edu.cn
