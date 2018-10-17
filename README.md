@@ -4,7 +4,17 @@
 An effective and efficient hierarchical K-means clustering algorithm. [[Download pdf]](https://doi.org/10.1177/1550147717728627)
 
 ## Usage
-TBD.
+- Main Class`ctl/MainTime.java`
+
+Runtime parameters`etc/Configuration.java`:
+```java
+  public static int k = 20; // number of clusters at last. 
+  public static String path ="data/data20groups_500d.txt";//dataset path
+  public static final int dmStart =0;//1st attribute position
+  public static final int dm =499;//dimensions of datasets
+  public static final int classPos =499;//position of label
+  public static String separated = ","; //separator
+```
 
 ## Requirements
 - jdk 7+
